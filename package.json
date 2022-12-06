@@ -1,1 +1,10 @@
-{"asciiart-logo":"^0.2.6","console.table":"^0.10.0","inquirer":"8.2.4","mysql2":"^2.1.0","dependencies":{"inquirer":"^9.1.4"}}
+{
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "mysql2": "^2.1.0",
+    "dependencies": {
+        "express": "^4.18.2",
+        "inquirer": "8.2.4",
+        "mysql2": "^2.2.5"
+    }
+}
